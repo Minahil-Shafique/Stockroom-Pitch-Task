@@ -33,7 +33,7 @@ Install the dependencies:
 ```bash
    npm install
 ```
-###💡 Usage
+### 💡 Usage
 Start the development server:
 
 ```bash
