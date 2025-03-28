@@ -12,6 +12,14 @@ This project is a modern and responsive UI design for the Stockroom Pitch task, 
 - Node.js
 - npm or yarn package manager
 
+## 📃 Pages
+- Home
+- About Us
+- Services
+- Work
+- Team
+- Contact
+
 ## 📁 Installation
 1. Clone the repository:
 ```bash
@@ -31,4 +39,5 @@ Start the development server:
 ```bash
    npm run dev
 ```
+
 Open the app in your browser at http://localhost:3000.
